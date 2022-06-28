@@ -696,7 +696,9 @@ footer li {
 }
 .gallery {
   padding: 30px;
+  margin-bottom:30px ;
   background-color: #FFF;
+
 }
 .gallery-title {
   font-size: 36px;
@@ -737,5 +739,16 @@ footer li {
   width: 100%;
 }
 .gallery_product {
-  margin-bottom: 30px;
+
+  margin-bottom: 30px; 
+
+}
+.bottom-left {
+  position: absolute;
+  padding: 3px ;
+  bottom: 13px;
+  left: 26px;
+background-color: #f0ebe381;
+border-radius: 4px;
+box-shadow: 1px 1px 8px grey;
 }
